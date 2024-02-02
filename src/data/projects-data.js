@@ -11,11 +11,11 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
+        projectName: 'GOALPrime Website',
+        projectDesc: 'This project was developed using Laravel for GOALPrime organization is is thier official website.',
+        tags: ['Laravel', 'Javascript', 'Bootstrap'],
+        code: 'https://github.com/goalprime/goalprimeorg',
+        demo: 'https://www.goalprime.org/',
         image: six
     },
     {
@@ -29,21 +29,22 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        projectName: 'Power House',
+        projectDesc: 'This project about a National Reality TV Show.',
+        tags: ['Laravel', 'CSS', 'Javascript'],
+        code: 'https://github.com/ozavcodez/ceo-crib/tree/austin2',
+        demo: 'https://powerhouse.goalprime.org/',
         image: eight
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Imo State University Portal',
+        projectDesc: 'A laravel project for the imo state university portal, modules include, post utme registration, school fee payment, student module, add course, lecturer module, admin module, etc.',
+        tags: ['Laravel', 'CSS','Javascript'],
+        code: 'https://github.com/oncheaustin/imsuportal',
+        demo: 'https://imsu.edu.ng/portal',
         image: four
+        
     },
     {
         id: 5,
