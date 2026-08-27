@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is a NextJs project for resume 👋
+### This is a Professional NextJs project for resume 👋
 
 <!--
 **oncheaustin/oncheaustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
