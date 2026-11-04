@@ -54,6 +54,25 @@
   font-size: 1.25rem;
   color: #e0d9d9;
   font-family: var(--primaryFont);
+  line-height: 1.75;
+  margin: 0 0 1rem;
+  max-width: 760px;
+}
+
+.aboutHighlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+}
+
+.aboutHighlights li {
+  border: 1px solid;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  padding: 0.45rem 0.85rem;
 }
 
 .aboutAnimation {
@@ -99,6 +118,10 @@
 
   .aboutDescription > p {
     font-size: 1.1rem;
+  }
+
+  .aboutHighlights {
+    justify-content: center;
   }
 
   .aboutImg > img {
