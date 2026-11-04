@@ -5,5 +5,5 @@ export const headerData = {
     desciption: "Hello! I am ONCHE AUSTIN, a professional  Software developer that love to learn and explore new technologies and I am Passionate about Problem Solving.",
     image: 'https://i.ibb.co/vmV6CWq/facecard.png',
     imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://docs.google.com/document/d/1OuYQEq5v5FPI9Td4H5KKdkaE2UHUu71Z5RTTBjhaoHk/edit?usp=sharing/'
+    resumePdf: 'https://drive.google.com/file/d/1yF-T64A8Xo4ymoof91jWSBSbJ_PeKL8z/view?usp=sharing'
 }
